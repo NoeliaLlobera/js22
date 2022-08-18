@@ -1,0 +1,31 @@
+*{
+    font-family: "Press Start 2P";
+}
+img{
+    height: 100px;
+    display: block;
+    border-radius: 100px;
+    border: 2px black solid;
+}
+#con{
+    background-color: #E1C7C2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    max-width: 1000px;
+    width: 90vw;
+    margin: 50px auto;
+}
+button{
+    width: 200px;
+    height: 40px;
+    padding: 0px;
+}
+p{
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
